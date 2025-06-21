@@ -56,7 +56,7 @@ Follow the steps below to set up and run the application:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/GURPREETKAURJETHRA/AI-Data-Visualization-Agent.git
+   git clone https://github.com/Ashirvaddubey/AI-Data-Visualization-Agent.git
    cd AI-Data-Visualization-Agent
 
    ```
@@ -74,10 +74,11 @@ Happy coding! 🚀✨
 ## ©️ License 🪪 
 
 Distributed under the MIT License. See `LICENSE` for more information.
+By Ashirvad Dubey
 
 ---
 
 #### **If you like this LLM Project do drop ⭐ to this repo**
-#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetkaurjethra/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURPREETKAURJETHRA/)
+#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashirvad-dubey-a43bb7253/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashirvaddubey)
 
 ---
