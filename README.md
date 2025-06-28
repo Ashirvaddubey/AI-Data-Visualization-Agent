@@ -21,7 +21,8 @@ Features:
      → Meta-Llama 3.1 405B                                 
      → DeepSeek V3                                  
      → Qwen 2.5 7B                             
-     → Meta-Llama 3.3 70B                                        
+     → Meta-Llama 3.3 70B     
+     
      
 ![AI Data Visualization Agent](https://github.com/GURPREETKAURJETHRA/AI-Data-Visualization-Agent/blob/main/img/AI%20DVA2.jpg)
 
