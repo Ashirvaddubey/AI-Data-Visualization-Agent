@@ -15,7 +15,6 @@ from together import Together
 from e2b_code_interpreter import Sandbox
 
 warnings.filterwarnings("ignore", category=UserWarning, module="pydantic")
-
 pattern = re.compile(r"```python\n(.*?)\n```", re.DOTALL)
 
 def code_interpret(e2b_code_interpreter: Sandbox, code: str) -> Optional[List[Any]]:
